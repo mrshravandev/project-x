@@ -8,7 +8,7 @@ const MainContent = () => {
   const { siteConfig } = useDocusaurusContext();
   return (
     <section className={clsx(styles.container)}>
-      <Link className={styles.profilepic} to='/blog'>
+      <Link className={styles.profilepic} to='/posts'>
         <img src='/img/profile-pic.jpeg' />
       </Link>
       <Heading as="h1" className={styles.title}>
