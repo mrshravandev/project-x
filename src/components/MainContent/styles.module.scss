@@ -1,0 +1,37 @@
+/**
+ * CSS files with the .module.css suffix will be treated as CSS modules
+ * and scoped locally.
+ */
+
+ .container {
+    padding: 4rem 0;
+    text-align: center;
+    position: relative;
+    overflow: hidden;
+}
+
+@media screen and (max-width: 996px) {
+    .container {
+      padding: 2rem;
+    }
+}
+  
+.profilepic > img  {
+    border-radius: 50%;
+    min-width: 10%;
+    max-width: 20%;
+    object-fit: fill;
+    object-position: 50% 4%;
+}
+
+.title {
+  font-size: 3rem;
+}
+
+.tagline {
+  font-size: 1.5rem;
+}
+
+.location {
+  font-size: 1.25rem;
+}
