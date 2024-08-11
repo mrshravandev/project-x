@@ -43,7 +43,7 @@ const config: Config = {
           routeBasePath: '/projects',
           sidebarPath: './sidebars.ts',
           editUrl:
-            'https://github.com/mrshravandev/project-x/tree/master/projects',
+            'https://github.com/mrshravandev/project-x/tree/master',
         },
         blog: {
           routeBasePath: '/posts',
@@ -55,7 +55,7 @@ const config: Config = {
             copyright: `Copyright ©2024-present. Some rights reserved. Built by Shravan, Hosted on Vercel`
         },
           editUrl:
-            'https://github.com/mrshravandev/project-x/edit/master/posts',
+            'https://github.com/mrshravandev/project-x/edit/master',
         },
         theme: {
           customCss: './src/global-styles/global.scss',
