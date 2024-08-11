@@ -43,7 +43,7 @@ const config: Config = {
           routeBasePath: '/projects',
           sidebarPath: './sidebars.ts',
           editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/', //update this later
+            'https://github.com/mrshravandev/project-x/tree/master/projects',
         },
         blog: {
           routeBasePath: '/posts',
@@ -55,7 +55,7 @@ const config: Config = {
             copyright: `Copyright ©2024-present. Some rights reserved. Built by Shravan, Hosted on Vercel`
         },
           editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/', //update this later
+            'https://github.com/mrshravandev/project-x/edit/master/posts',
         },
         theme: {
           customCss: './src/global-styles/global.scss',
