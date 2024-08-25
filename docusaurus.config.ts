@@ -65,6 +65,9 @@ const config: Config = {
   ],
 
   themeConfig: {
+    colorMode: {
+      defaultMode: 'dark',
+    },
     navbar: {
       hideOnScroll: true,
       title: "Shravan's Blog",
