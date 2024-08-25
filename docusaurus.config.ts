@@ -22,7 +22,7 @@ const config: Config = {
   onBrokenMarkdownLinks: 'warn',
 
   customFields: {
-    description: "Welcome to Shravan C's personal blog! Here, I share thoughts, insights, and musings on a variety of topics that spark my curiosity and might intrigue you too. Dive in and explore the ideas and reflections that cross my mind.",
+    description: "Welcome to Shravan's personal blog! Here, I share thoughts, insights, and musings on a variety of topics that spark my curiosity and might intrigue you too. Dive in and explore the ideas and reflections that cross my mind.",
     location: "Bangalore, India"
    },
 
@@ -46,6 +46,7 @@ const config: Config = {
             'https://github.com/mrshravandev/project-x/tree/master',
         },
         blog: {
+          blogTitle: 'Posts',
           routeBasePath: '/posts',
           path: './posts',
           blogSidebarCount: 0,
@@ -72,6 +73,7 @@ const config: Config = {
       hideOnScroll: true,
       title: "Shravan's Blog",
       items: [
+        {to: '/', label: 'Home', position: 'left'},
         {to: '/posts', label: 'Posts', position: 'left'},
         {
           type: 'docSidebar',

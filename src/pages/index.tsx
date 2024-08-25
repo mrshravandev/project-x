@@ -6,10 +6,9 @@ import { Analytics } from '@vercel/analytics/react';
 import { SpeedInsights } from '@vercel/speed-insights/react';
 
 export default function Home(): JSX.Element {
-  const { siteConfig } = useDocusaurusContext();
   return (
     <Layout
-      title={`Shravan's Blog`}
+      title="Shravan's Blog"
       description="Welcome to Shravan's personal blog! Here, I share thoughts, insights, and musings on a variety of topics that spark my curiosity and might intrigue you too. Dive in and explore the ideas and reflections that cross my mind.">
        <Head>
        {/* Change below to your google site verification tag */}
