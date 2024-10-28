@@ -9,7 +9,7 @@ const MainContent = () => {
   return (
     <section className={clsx(styles.container)}>
       <Link className={styles.profilepic} to='/about'>
-        <img src='/img/profile-pic.jpeg' />
+        <img src='/img/profile-pic.jpeg' alt="Shravan C" />
       </Link>
       <Heading as="h1" className={styles.title}>
         {siteConfig.title}
