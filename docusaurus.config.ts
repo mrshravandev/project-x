@@ -53,7 +53,7 @@ const config: Config = {
           showReadingTime: true,
           feedOptions: {
             type: 'all',
-            copyright: `Copyright ©2024-present. Some rights reserved. Built by Shravan, Hosted on Vercel`
+            copyright: `Copyright ©2025-present. Some rights reserved. Built by Shravan, Hosted on Vercel`
         },
           editUrl:
             'https://github.com/mrshravandev/project-x/edit/master',
