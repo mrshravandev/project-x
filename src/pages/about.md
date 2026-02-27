@@ -4,7 +4,7 @@ title: About Me
 
 # About Me — Shravan C (@mrshravandev)
 
-Hey👋, I'm shravan, I am a seasoned softwared engineer based in Bangalore, India with over 7 years of full-time work experience and have designed, developed and shipped various products across platform engineering, industrial edge & IoT, home retail e-commerce, and oil & gas domains. I was part of both operations and development agile scrum teams. 
+Hey👋, I'm shravan, I am a seasoned softwared engineer based in Bangalore, India with over 8 years of full-time work experience and have designed, developed and shipped various products across platform engineering, industrial edge & IoT, home retail e-commerce, and oil & gas domains. I was part of both operations and development agile scrum teams. 
 
 Currently I work for Carbon Compute Platform at Lowe's India as Lead Software Engineer and previously worked for Honeywell India as Software Engineer II.
 
